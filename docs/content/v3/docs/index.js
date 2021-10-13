@@ -128,4 +128,8 @@ module.exports = [
       // },
     ],
   },
+  {
+    text: 'Architecture',
+    url: 'architecture',
+  },
 ]
